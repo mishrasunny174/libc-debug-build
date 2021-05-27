@@ -1,2 +1,2 @@
 # libc-debug-build
-A storage repository to contain debug build of compiles glibc libraries
+A storage repository to contain debug build of compiled glibc libraries
